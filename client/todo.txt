@@ -1,0 +1,18 @@
+[x] Vite
+[x] Vue 3
+[x] Typescript
+[x] Pinia
+[X] Vuetify
+[X] Routing - Example (Normal Vue router with glob)
+[X] pnpm
+[X] vue-tsc
+[X] Finish todo
+[X] Table
+[X] Vitest
+[X] Links to each library
+[ ] Storybook
+
+
+[X] Extension list
+[ ] Need eslint rules for return type
+[ ] Fix linting/prettier 

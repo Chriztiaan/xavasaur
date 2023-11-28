@@ -1,0 +1,41 @@
+#app {
+  width: 100dvw;
+  margin: 0 auto;
+  font-weight: normal;
+}
+
+.v-btn {
+  text-transform: capitalize !important;
+}
+
+.gap {
+  row-gap: 12px;
+}
+
+.gap-1 {
+  gap: 4px;
+}
+
+.gap-2 {
+  gap: 8px;
+}
+
+.gap-3 {
+  gap: 12px;
+}
+
+.gap-4 {
+  gap: 16px;
+}
+
+.f-11 {
+  font-size: 11px;
+}
+
+.f-12 {
+  font-size: 12px;
+}
+
+.f-14{
+  font-size: 14px;;
+}
